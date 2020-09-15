@@ -3,11 +3,11 @@ def create_an_empty_array
 end
 
 def create_an_array
-  
+  nintendo_games=["zelda", "mario", "smashbros", "animalcrossing"]
 end
 
 def add_element_to_end_of_array(array, element)
-  
+  nintendo_games 
 end
 
 def add_element_to_start_of_array(array, element)
